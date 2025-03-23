@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HR Coaching Centre - PDF Store</title>
+    <style>
+        body { font-family: Arial, sans-serif; background: #f4f4f4; padding: 20px; }
+        h1 { color: #333; }
+        .pdf-item { margin: 15px 0; padding: 10px; background: white; border-radius: 5px; }
+        .pdf-item a { color: green; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>PDF Store - HR Coaching Centre</h1>
+    <div class="pdf-item">
+        <p>1. 100 Common City Names</p>
+        <a href="100_Common_City_Names_HR_Coaching_Centre.pdf" download>Download PDF</a>
+    </div>
+    <div class="pdf-item">
+        <p>2. [Add next PDF name here]</p>
+        <a href="[next PDF file name]" download>Download PDF</a>
+    </div>
+    <!-- Add more PDF items similarly -->
+</body>
+</html>
